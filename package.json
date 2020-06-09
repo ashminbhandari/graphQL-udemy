@@ -1,3 +1,7 @@
 {
-    "name": "graphql-by-udemy"
+    "name": "graphql-by-udemy",
+    "dependencies": {
+        "apollo-server": "^2.14.3",
+        "graphql": "^15.1.0"
+    }
 }
